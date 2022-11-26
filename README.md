@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I’m Michał
 
-<!--
-**emrojek/emrojek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](~https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&pause=1000&color=FC8C00&width=435&lines=I'm+a+Junior+Quality+Assurance+%2F+Software+Tester~)](~https://git.io/typing-svg~)
 
-Here are some ideas to get you started:
+#### Something about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 Live in Poland, Szczecin
+- 👨‍🎓 3rd year Computer Science student at WSB University in Szczecin
+- 🔭 I’m currently looking for my first job in IT
+- 💻 Also intrested in web development technologies and intend to create my own portfolio website
+- 🌱 Currently learning learning API testing and improving my English skills
+- ✨ In the near future I want to start learning `JavaScript` and try my hand at test automation
+- 📫 Reach me: [Linkedin](~https://www.linkedin.com/in/michał-rojek/~)
+- 👉 Check out my [Portfolio](~https://github.com/emrojek/Portfolio~)
