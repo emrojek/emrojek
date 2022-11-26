@@ -7,7 +7,7 @@
 - 🏠 Live in Poland, Szczecin
 - 👨‍🎓 3rd year Computer Science student at WSB University in Szczecin
 - 🔭 I’m currently looking for my first job in IT
-- 💻 Also intrested in web development technologies and intend to create my own portfolio website
+- 💻 Also interested in web development technologies and intend to create my own portfolio website
 - 🌱 Currently learning API testing and improving my English skills
 - ✨ In the near future I want to start learning `JavaScript` and try my hand at test automation
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/michał-rojek/)
