@@ -2,8 +2,8 @@
 
 ### [&#x200B;](###) Something about me:
 
-- 💻 Junior Software Tester at **SB Betting Software**
-- 👨‍🎓 3rd year Computer Science student at WSB University in Szczecin
-- 🌱 I'm currently learning `JavaScript` and `API` testing
+- 💻 Software Tester at **SB Software**
+- 🌱 I'm currently expanding my knowledge about `JavaScript / TypeScript` and started my journey with automated tests using `Playwright`
 - 🔭 Daily discovering new things about **Testing**
-- 👉 Check out my [Portfolio](https://github.com/emrojek/Portfolio)
+- ⭐ Hobbies: Games 🎮, Reading 📖, Investing 💹 
+- 📬 You can reach me: [E-mail](michal.rojek.it@gmail.com) or [Linkedin](https://www.linkedin.com/in/micha%C5%82-rojek/)
