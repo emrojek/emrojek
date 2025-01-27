@@ -3,7 +3,6 @@
 ### [&#x200B;](###) Something about me:
 
 - 💻 Software Tester at **SB Software**
-- 🌱 Currently expanding my `JavaScript / TypeScript` skills and starting to learn automated testing using `Playwright`
-- 🔭 Daily discovering new things about **Testing**
+- 🌱 Currently expanding my `JavaScript / TypeScript` skills and learning automated testing with `Playwright`
 - ⭐ Hobbies: 🎮 Games, 📖 Reading, 💹 Investing 
-- 📬 You can reach me via: [E-mail](michal.rojek.it@gmail.com) or [Linkedin](https://www.linkedin.com/in/micha%C5%82-rojek/)
+- 📬 You can reach me via: [E-mail](mailto:michal.rojek.it@gmail.com) or [Linkedin](https://www.linkedin.com/in/micha%C5%82-rojek/)
